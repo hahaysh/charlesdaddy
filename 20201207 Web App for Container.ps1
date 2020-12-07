@@ -2,7 +2,7 @@
 # Bash 셸로 변경
 
 # 샘플 파일 클론
-git clone https://github.com/MicrosoftDocs/mslearn-deploy-run-container-app-service.git
+git clone https://github.com/hahaysh/mslearn-deploy-run-container-app-service
 cd mslearn-deploy-run-container-app-service/dotnet
 
 # 전역 선언
